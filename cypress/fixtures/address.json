@@ -1,0 +1,9 @@
+{
+  "country": {
+    "India": {
+      "countryCode": "IN",
+      "state": "Delhi",
+      "stateCode": "DL"
+    }
+  }
+}
