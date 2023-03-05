@@ -42,4 +42,3 @@ select spec file to run on cypress test runner
 5. Step definition files are in cypress/e2e/step_definitions
 6. Page object classes are defined in cypress/support/pages
 7. Most of the user actions on the page are defined as a method in the page objects and are called in step definition files
-8. cypress/e2e folder contains all the test files
